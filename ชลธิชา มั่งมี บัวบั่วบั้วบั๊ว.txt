@@ -1,0 +1,81 @@
+Host Name: [ชื่อเครื่อง]
+
+OS Name: [ชื่อระบบปฏิบัติการ]
+
+OS Version: [เวอร์ชันของระบบ]
+
+OS Manufacturer: [ผู้ผลิตระบบปฏิบัติการ]
+
+OS Configuration: [การตั้งค่าระบบปฏิบัติการ]
+
+OS Build Type: [ประเภทของ Build]
+
+Registered Owner: [เจ้าของที่ลงทะเบียน]
+
+Registered Organization: [องค์กรที่ลงทะเบียน]
+
+Product ID: [รหัสผลิตภัณฑ์ Windows]
+
+Original Install Date: [วันที่ติดตั้งครั้งแรก]
+
+System Boot Time: [เวลาเปิดระบบล่าสุด]
+
+System Manufacturer: [ผู้ผลิตเครื่องคอมพิวเตอร์]
+
+System Model: [รุ่นของเครื่อง]
+
+System Type: [ประเภทระบบ เช่น 64-bit]
+
+Processor(s): [ชื่อ CPU และความเร็ว ~2936 MHz]
+
+BIOS Version: [เวอร์ชัน BIOS]
+
+Windows Directory: [โฟลเดอร์ Windows เช่น C:\Windows]
+
+System Directory: [โฟลเดอร์ System เช่น C:\Windows\System32]
+
+Boot Device: [อุปกรณ์ที่ใช้บูตระบบ]
+
+System Locale: [ภาษาระบบ เช่น th-TH]
+
+Input Locale: [ภาษาคีย์บอร์ด เช่น en-US]
+
+Time Zone: [เขตเวลา เช่น SE Asia Standard Time]
+
+Total Physical Memory: [RAM ทั้งหมด]
+Available Physical Memory: [RAM ที่ว่าง]
+
+Virtual Memory: Max Size: [ขนาดสูงสุดของหน่วยความจำเสมือน]
+
+Virtual Memory: Available: [หน่วยความจำเสมือนที่ว่าง]
+
+Virtual Memory: In Use: [หน่วยความจำเสมือนที่ใช้]
+Page File Location(s): [ตำแหน่งไฟล์ Page เช่น C:\pagefile.sys]
+
+Domain: [ชื่อโดเมน หรือ WORKGROUP]
+
+Logon Server: [เซิร์ฟเวอร์ที่เข้าสู่ระบบ เช่น \DESKTOP-XXXX]
+
+
+Link-local IPv6 Address:
+ที่อยู่ IPv6 แบบเชื่อมโยงภายในเครือข่ายท้องถิ่น
+ fe80::615a:3e0:603c:de60%13
+หมายถึง ที่อยู่ IP แบบ IPv6 ที่ใช้สื่อสารภายในเครือข่ายย่อยเดียวกันเท่านั้น (ใช้สำหรับการสื่อสารเฉพาะในวง LAN)
+
+
+IPv4 Address:
+ที่อยู่ IP เวอร์ชัน 4 ของเครื่องนี้
+ 192.168.92.35
+เป็นหมายเลขที่ใช้ระบุเครื่องคอมพิวเตอร์ในเครือข่ายIPv4
+
+
+Subnet Mask:
+หน้ากากเครือข่าย ??????
+ 255.255.255.0
+ใช้ในการแบ่งเครือข่ายออกเป็นเครือข่ายย่อย เพื่อช่วยให้รู้ว่าเครื่องอื่นอยู่ในเครือข่ายเดียวกันหรือไม่
+
+
+Default Gateway:
+เกตเวย์เริ่มต้น
+ 192.168.92.254
+เป็นจุดออกจากเครือข่ายย่อยไปยังเครือข่ายอื่น เช่น อินเทอร์เน็ต หรือเครือข่ายภายนอก
